@@ -1,7 +1,17 @@
 # IEEE-course---AI-for-Power-Energy-Systems
 This repository provides source code examples and Jupyter notebooks used in the online course named "*AI for Power &amp; Energy Systems: Computation Acceleration in Modeling and Control*" by [Dr. Fran Li](https://www.eecs.utk.edu/people/fangxing-fran-li/) at the University of Tennessee.  
 The goal is to help participants run and explore the code during or after the course with minimal setup.  
+## What in the repository
 
+This repository currently contains two Jupyter notebooks:
+
+- **`DNN_sin.ipynb`**  
+  Demonstrates the use of **Deep Neural Networks (DNN)** to approximate a sine function.  
+  *Course context:* Introduces fundamental concepts of deep learning and regression modeling using TensorFlow/Keras.
+
+- **`CNN_for__5_bus_system.ipynb`**  
+  Implements a **Convolutional Neural Network (CNN)** for analyzing a **5-bus power system**.  
+  *Course context:* Applies deep learning techniques to power system datasets, showing how CNNs can capture grid topology and operational features.
 
 ## How to Use
 
