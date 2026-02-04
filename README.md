@@ -1,5 +1,5 @@
 # IEEE-course---AI-for-Power-Energy-Systems
-This repository provides source code examples and Jupyter notebooks used in the online course named "*AI for Power &amp; Energy Systems: Computation Acceleration in Modeling and Control*" by [Dr. Fran Li](https://www.eecs.utk.edu/people/fangxing-fran-li/) at the University of Tennessee.  
+This repository provides source code examples and Jupyter notebooks used in the online course named "*[AI for Power and Energy Systems: Applications, Challenges, and Opportunities](https://xplorestaging.ieee.org/courses/details/EDP818)*" by [Dr. Fran Li](https://www.eecs.utk.edu/people/fangxing-fran-li/) at the University of Tennessee.  
 The goal is to help participants run and explore the code during or after the course with minimal setup.  
 ## What in the repository
 
