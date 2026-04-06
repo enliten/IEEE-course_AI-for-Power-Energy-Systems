@@ -3,7 +3,7 @@ This repository provides source code examples and Jupyter notebooks used in the 
 The goal is to help participants run and explore the code during or after the course with minimal setup.  
 ## What in the repository
 
-This repository currently contains two Jupyter notebooks:
+This repository currently contains the following Jupyter notebooks:
 
   ### **`DNN_sin.ipynb`**  
   Demonstrates the use of **Deep Neural Networks (DNN)** to approximate a sine function.  
