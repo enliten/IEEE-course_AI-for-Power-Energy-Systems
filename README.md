@@ -8,7 +8,6 @@ This repository currently contains the following Jupyter notebooks:
   ### **`DNN_sin.ipynb`**  
   Demonstrates the use of **Deep Neural Networks (DNN)** to approximate a sine function.  
   *Course context:* Introduces fundamental concepts of deep learning and regression modeling using TensorFlow/Keras.
----
 
   ### **`DNN_template.ipynb`**
 Implements a **feed-forward Deep Neural Network (DNN)** for generic one-dimensional regression tasks such as function fitting or load-curve prediction.  
