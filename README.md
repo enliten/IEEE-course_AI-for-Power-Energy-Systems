@@ -8,13 +8,6 @@ This repository currently contains the following Jupyter notebooks:
   ### **`DNN_sin.ipynb`**  
   Demonstrates the use of **Deep Neural Networks (DNN)** to approximate a sine function.  
   *Course context:* Introduces fundamental concepts of deep learning and regression modeling using TensorFlow/Keras.
-
----
-
-  ### **`CNN_for_5_bus_system.ipynb`**  
-  Implements a **Convolutional Neural Network (CNN)** for analyzing a **5-bus power system**.  
-  *Course context:* Applies deep learning techniques to power system datasets, showing how CNNs can capture grid topology and operational features.
-
 ---
 
   ### **`DNN_template.ipynb`**
@@ -46,6 +39,11 @@ This folder contains two key files:
 
 **Note**: Uploading the Excel File in Google Colab: To run the notebook in **Google Colab**, upload the Excel file named **`1min_load_linear.xlsx`** directly into the Colab working directory.  
   <img width="500" alt="2c3421b3e75c8a976866475d1e92f029" src="https://github.com/user-attachments/assets/1607271c-d89d-4b0d-99c9-381073c021b1" />
+
+### **`CNN_for_5_bus_system.ipynb`**  
+  Implements a **Convolutional Neural Network (CNN)** for analyzing a **5-bus power system**.  
+  *Course context:* Applies deep learning techniques to power system datasets, showing how CNNs can capture grid topology and operational features.
+
 
 
 ## How to Use
