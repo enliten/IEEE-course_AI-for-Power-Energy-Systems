@@ -54,23 +54,26 @@ We provide two options depending on your background and environment:
 - Simply open the file in Colab and click **Run All**.  
 - No local installation or configuration is required. This is the recommended method for first-time users.  
 
-### 2. Advanced Option – Run Locally with Python
-If you already have Python and Jupyter installed on your computer:
-1. Clone this repository or download the `.ipynb` files.  
-2. Make sure your Python environment includes the required packages:  
+### 2. Advanced Option – Run Locally with Micromamba
+If you already have Micromamba or Mamba installed:
+1. Clone this repository or download the files.
+2. Create the course environment:
 
+   ```bash
+   micromamba env create -f environment.yml
+   micromamba activate ai-course-pes
+   python -m ipykernel install --user --name ai-course-pes --display-name "Python (ai-course-pes)"
    ```
-   numpy
-   pandas
-   matplotlib
-   tensorflow
-   pandapower
-   jupyterlab
-   ```  
-3. Launch Jupyter Notebook or Jupyter Lab.  
-4. Open the `.ipynb` file and run the cells.  
 
-This option is more flexible for users with prior Python experience.  
+3. Launch Jupyter:
+
+   ```bash
+   jupyter lab
+   ```
+
+4. Open a notebook and select the **Python (ai-course-pes)** kernel.
+
+This environment includes TensorFlow/Keras, PyTorch, pandapower, PuLP/CBC, pandas, openpyxl, matplotlib, and Jupyter tools used by the course notebooks.
 
 ## License
 [MIT License](LICENSE) – Feel free to use and modify for learning and research purposes.
